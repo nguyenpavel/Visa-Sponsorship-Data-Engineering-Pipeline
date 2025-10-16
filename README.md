@@ -6,9 +6,7 @@ The system is built entirely on **AWS serverless architecture**, integrating pub
 
 ---
 ## System Architecture
-
-To view the designed architecture
-https://github.com/nguyenpavel/Visa-Sponsorship-Data-Engineering-Pipeline/blob/main/SystemArchitecture.png
+![System Architecture](https://raw.githubusercontent.com/nguyenpavel/Visa-Sponsorship-Data-Engineering-Pipeline/main/SystemArchitecture.png)
 
 
 ## Core Features
