@@ -5,6 +5,9 @@ An end-to-end **cloud-native data engineering pipeline** that automatically aggr
 The system is built entirely on **AWS serverless architecture**, integrating public APIs, web crawlers, and PostgreSQL for analysis-ready data — designed for scalability, automation, and minimal maintenance overhead.
 
 ---
+## System Architecture
+
+
 
 ## Core Features
 
